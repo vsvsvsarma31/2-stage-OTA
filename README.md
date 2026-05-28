@@ -1,4 +1,4 @@
-# 2 Stage OTA — TSMC 180nm (LTspice)
+# 2 Stage OTA — TSMC 180nm
 
 Design and simulation of a Miller-compensated two-stage operational transconductance amplifier (OTA) in TSMC 0.18 µm CMOS technology. The amplifier is characterised in open-loop (AC) and verified in a closed-loop non-inverting gain-of-2 configuration (transient).
 
